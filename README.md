@@ -1,7 +1,7 @@
-Bem-vindo ao Meu Portfólio!
+# **Bem-vindo ao Meu Portfólio!**
 Olá! Eu sou Renato, e este é o meu portfólio.
 
-Sobre Mim
+# **Sobre Mim**
 Neste espaço, você encontrará informações importantes sobre mim, minha jornada profissional, e origem. Este portfólio não apenas destaca minhas habilidades e experiências, mas também oferece uma visão mais profunda sobre quem eu sou como profissional e indivíduo.
 
 Tecnologias Utilizadas
